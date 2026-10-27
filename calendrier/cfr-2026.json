@@ -2,13 +2,13 @@
   "id": "cfr-2026",
   "nom": "Championnat de France des Rallyes Pilotes",
   "rallyes": [
-    {"n": 1, "nom": "Rallye Le Touquet Pas-de-Calais"},
-    {"n": 2, "nom": "Rallye Rhône-Charbonnière"},
-    {"n": 3, "nom": "Rallye Antibes Côte d'Azur"},
-    {"n": 4, "nom": "Rallye Vosges Grand Est"},
-    {"n": 5, "nom": "Rallye Mont-Blanc - Morzine"},
-    {"n": 6, "nom": "Rallye Coeur de France"},
-    {"n": 7, "nom": "Critérium des Cévennes"},
+    {"n": 1, "nom": "66ème Rallye Le Touquet Pas-de-Calais", "code": "73100"},
+    {"n": 2, "nom": "78ème Rallye Rhône-Charbonnière", "code": "73056"},
+    {"n": 3, "nom": "61ème Rallye Antibes Côte d'Azur 2026", "code": "73067"},
+    {"n": 4, "nom": "41ème Rallye Vosges Grand Est", "code": "73246"},
+    {"n": 5, "nom": "78ème Rallye Mont-Blanc - Morzine", "code": "73062"},
+    {"n": 6, "nom": "29ème Rallye Coeur de France", "code": "73036"},
+    {"n": 7, "nom": "Critérium des Cévennes", "code": "73001"},
     {"n": 8, "nom": "Rallye du Var"}
   ]
 }
