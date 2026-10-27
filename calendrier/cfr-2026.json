@@ -1,0 +1,14 @@
+{
+  "id": "cfr-2026",
+  "nom": "Championnat de France des Rallyes Pilotes",
+  "rallyes": [
+    {"n": 1, "nom": "Rallye Le Touquet Pas-de-Calais"},
+    {"n": 2, "nom": "Rallye Rhône-Charbonnière"},
+    {"n": 3, "nom": "Rallye Antibes Côte d'Azur"},
+    {"n": 4, "nom": "Rallye Vosges Grand Est"},
+    {"n": 5, "nom": "Rallye Mont-Blanc - Morzine"},
+    {"n": 6, "nom": "Rallye Coeur de France"},
+    {"n": 7, "nom": "Critérium des Cévennes"},
+    {"n": 8, "nom": "Rallye du Var"}
+  ]
+}
