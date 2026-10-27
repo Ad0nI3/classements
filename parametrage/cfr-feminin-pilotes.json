@@ -1,0 +1,10 @@
+{
+  "id": "cfr-feminin-pilotes",
+  "nom": "Championnat de France des Rallyes Féminin - Pilotes",
+  "role": "pilote",
+  "code": "F",
+  "bareme": [20, 15, 12, 10, 8, 6, 4, 3, 2, 1],
+  "bonus_arrivee": 3,
+  "coef": 1,
+  "decompte": false
+}
