@@ -2,14 +2,11 @@
   "id": "cfr-pilotes",
   "nom": "CFR-PILOTES",
   "role": "pilote",
-  "bareme": [20, 15, 12, 10, 8, 4, 2, 1],
+  "calendrier": "cfr-2026",
+  "code_defaut": "CFR",
+  "bareme": [20, 15, 12, 10, 8, 6, 4, 2, 1],
   "bonus_arrivee": 3,
   "coef": 1,
   "decompte": true,
-  "meetings": {
-    "2510": {
-      "code": "1",
-      "rallye_n": 1
-    }
-  }
+  "meetings": {}
 }
