@@ -1,0 +1,16 @@
+{
+  "id": "cfr-teams",
+  "nom": "Championnat de France des Rallyes Team",
+  "role": "pilote",
+  "epreuves": "cfr-2026",
+  "bareme": [20, 15, 12, 10, 8, 6, 4, 3, 2, 1],
+  "coef": 1,
+  "code": "T",
+  "mode": "team",
+  "coupes": ["4", "6", "RE"],
+  "demi_points": 3,
+  "bonus_general": [10, 8, 6, 5, 4],
+  "meilleurs": 2,
+  "bonus_arrivee": 0,
+  "retenus": 0
+}

@@ -1,0 +1,13 @@
+{
+  "id": "cfr-2rm-pilotes",
+  "nom": "Championnat de France des Rallyes 2 Roues Motrices - Pilotes",
+  "role": "pilote",
+  "epreuves": "cfr-2026",
+  "bareme": [20, 15, 12, 10, 8, 6, 4, 3, 2, 1],
+  "coef": 1,
+  "code": "2RM",
+  "mode": "classe",
+  "demi_points": 3,
+  "bonus_arrivee": 3,
+  "retenus": 7
+}

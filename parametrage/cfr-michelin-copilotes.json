@@ -1,0 +1,13 @@
+{
+  "id": "cfr-michelin-copilotes",
+  "nom": "Trophée Michelin - Copilotes",
+  "role": "copilote",
+  "epreuves": "cfr-2026",
+  "bareme": [20, 15, 12, 10, 8, 6, 4, 3, 2, 1],
+  "coef": 1,
+  "code": "TM",
+  "mode": "plateau",
+  "plateaux": ["R", "P", "A"],
+  "bonus_arrivee": 3,
+  "retenus": 7
+}
