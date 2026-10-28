@@ -2,9 +2,10 @@
   "id": "cfr-feminin-copilotes",
   "nom": "Championnat de France des Rallyes Féminin - Copilotes",
   "role": "copilote",
-  "code": "F",
+  "code": "CF",
   "bareme": [20, 15, 12, 10, 8, 6, 4, 3, 2, 1],
   "bonus_arrivee": 3,
   "coef": 1,
-  "decompte": false
+  "retenus": 7,
+  "sexe": "F"
 }
